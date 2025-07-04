@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sandhyakatike
 - I’m interested in learning Datascience
-- I’m currently pursuing masters in Information Systems
+- I’m a graduate student in masters in Information Systems
   
   
 
